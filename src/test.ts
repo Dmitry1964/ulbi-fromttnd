@@ -1,0 +1,1 @@
+export const aaa = (param: string) => param; 
